@@ -1,6 +1,5 @@
 {
     "require": {
-        "j7mbo/twitter-api-php": "^1.0",
         "abraham/twitteroauth": "^1.0"
     },
     "require-dev": {
